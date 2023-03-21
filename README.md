@@ -1,3 +1,7 @@
+## Musical Note Flashcards
+
+This project is a Frontend Single Page Application developed in React. Its primary objective is to provide an engaging and interactive platform for students to learn how to read musical notes. The application enables students to select a specific range of notes to focus on, and the app will randomly choose notes from within that range to present them in a flashcard-style format. The user-friendly interface and the customizable note selection make it an excellent tool for students of all levels who want to enhance their knowledge of musical notes.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
